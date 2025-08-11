@@ -1,4 +1,4 @@
-## Hi there!
+# Hi there!
 
 I'm Pitzzzz, a frontend developer based in Australia.
 
