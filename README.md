@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Pitzzzz, a frontend developer based in Australia.
+I'm Pitzzzz, a full-stack developer based in Australia.
 
 I love turning epic ideas into real and valuable products.
 
